@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  description: 'This gonna be an awesome website.',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: '千里写字的地方',
+  description: '你好，这世界.',
+  author: '千里',
+  email: 'maqianli@outlook.com',
   link: 'https://craigary.net',
   lang: 'en-US',
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
@@ -10,7 +10,7 @@ const BLOG = {
   postsPerPage: 7,
   showAbout: true, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/helloziyeli',
   notionApiEndPoint: process.env.NOTION_API_ENDPOINT,
   notionPageId: process.env.NOTION_PAGE_ID
 }
